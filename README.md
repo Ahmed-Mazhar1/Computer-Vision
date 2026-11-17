@@ -244,11 +244,10 @@ The notebooks read images from disk, so add your own with these names (or edit t
 - [x] Hough transform for lines and circles, and lane detection
 - [ ] Morphological operations
 - [ ] Feature detection and matching
-- [ ] Real-time video processing
 
 ## 👤 Author
 
-**Medo** — Computer Systems Engineering student at MSA University.
+**Ahmed Hossam Mohamed.** — Computer Systems Engineering student at MSA University.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmed--Mazhar1-181717?style=for-the-badge&logo=github)](https://github.com/Ahmed-Mazhar1)
 
